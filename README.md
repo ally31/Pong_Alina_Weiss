@@ -22,7 +22,7 @@
 
 1. **Repository klonen**:
    ```bash
-   git clone https://github.com/dein-username/PongGame.git
+   git clone https://github.com/ally31/Pong_Alina_Weiss.git
    cd PongGame
 
 2. **Build-Verzeichnis erstellen und zum Build-Verzeichnis navigieren**:
